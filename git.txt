@@ -1,0 +1,17 @@
+1.  cd is used to change the directory and move to another directory 
+2.  ls is used to get the sequence of lists 
+3.  mkdir is used to make the new folder . 
+4.  git init : initialize the empty git repositorygit 
+5.  .git makes an hidden file which is only shown when an tag like ls -a is called . 
+6.  to get the inside of .git folder use ls .git
+7.  to create a new file use TOUCH name.txt is used to create a file usin. g git command. 
+8.  git status is used to check which all commits are made and how many are still left.
+9.  if u want to make all the untracked files on the staging area used git add name
+10. if you want to add all the files in the staging are used git add (.)
+11.  git commit -m " filename.txt respective file added " is used to get te conformatory message 
+12. git config --global user.name "FIRST_NAME LAST_NAME" is used to get the email adress . 
+13. --global user.email "MY_NAME@example.com" is used to add 
+14.  rm -rf name of file is used to delete a file 
+15. git stash makes the folder like the previous one . 
+16. git stash pop makes the restored files delete again
+17 . git remote add origin your repostry url and this add you project to git . 
